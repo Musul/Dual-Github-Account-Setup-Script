@@ -1,0 +1,15 @@
+# Estado y logs locales
+*.log
+state.json
+.local/
+
+# Claves y secretos
+id_ed25519*
+id_rsa*
+*.pem
+*.ppk
+.env
+
+# Backups y artefactos de pruebas
+backups/
+tests/.tmp/

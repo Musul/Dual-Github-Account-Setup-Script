@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "profiles": [
+    {
+      "id": "personal",
+      "label": "Personal",
+      "root": "C:/Users/me/GitHub/personal",
+      "githubUser": "mi-usuario-personal",
+      "commitName": "Mi Nombre",
+      "email": "personal@example.com",
+      "keyPath": "C:/Users/me/.ssh/id_ed25519_github_personal",
+      "configPath": "C:/Users/me/.config/git/github-personal.gitconfig",
+      "usePassphrase": false,
+      "createRoot": true
+    },
+    {
+      "id": "work",
+      "label": "Trabajo",
+      "root": "C:/Users/me/GitHub/work",
+      "githubUser": "mi-usuario-trabajo",
+      "commitName": "Mi Nombre",
+      "email": "work@example.com",
+      "keyPath": "C:/Users/me/.ssh/id_ed25519_github_work",
+      "configPath": "C:/Users/me/.config/git/github-work.gitconfig",
+      "usePassphrase": false,
+      "createRoot": true
+    }
+  ]
+}
