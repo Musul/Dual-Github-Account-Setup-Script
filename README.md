@@ -65,7 +65,7 @@ Las claves nuevas se guardan por defecto en `%USERPROFILE%\.ssh` y las configura
 
 ## Seguridad
 
-- No pide contraseñas, tokens ni passphrases.
+- No almacena contraseñas, tokens ni passphrases.
 - No imprime claves privadas.
 - No automatiza el login de GitHub ni evade 2FA.
 - No desactiva la verificación de host keys de forma permanente.

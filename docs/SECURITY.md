@@ -46,7 +46,7 @@ La clave pública no es secreta. Se copia al portapapeles y se muestra para que 
 
 ## Passphrases
 
-- El asistente no pide ni almacena passphrases.
+- El asistente no almacena passphrases.
 - Si eliges una passphrase, `ssh-keygen` la solicita directamente.
 - Git la pedirá en cada operación salvo que la clave esté cargada en un agente SSH.
 - El asistente no puede recuperar una passphrase olvidada.
